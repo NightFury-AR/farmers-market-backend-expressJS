@@ -1,0 +1,25 @@
+{
+  "name": "fm-app-backend",
+  "version": "1.0.0",
+  "description": "This is famers-market-app's backend with expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fm-backend",
+    "expressjs",
+    "nodejs",
+    "CRUD",
+    "CRUD"
+  ],
+  "author": "aashiq",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.9"
+  }
+}
